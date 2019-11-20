@@ -1,0 +1,2 @@
+FROM registry
+MAINTAINER tong
